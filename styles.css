@@ -79,6 +79,10 @@
   align-items: start;
 }
 
+.hero-main-section-two {
+  text-align: right;
+}
+
 .hero-main-section-two img {
   transform: scaleX(-1);
   object-fit: cover;
